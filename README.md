@@ -61,6 +61,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/M1ka3il/M1ka3il/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/M1ka3il/output/snake.svg" alt="Snake animation" />
 
 ###
