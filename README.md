@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">My name is Michael and I'm a Junior Full Stack .NET Developer from Germany</p>
+<p align="center">My name is Michael and I'm currently working as a "Junior Full Stack .NET Developer" in Germany</p>
 
 ###
 
