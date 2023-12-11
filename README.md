@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">✨ Creating bugs since: 2020<br>📚 I'm currently learning: Frontend Dev with Bootstrap and JS<br>🎯 Goals: Lern more about Frontendcoding with JS</p>
+<p align="center">✨ Creating bugs since: 2020<br>📚 I'm currently learning: Frontend Dev with Bootstrap and JS<br>🎯 Goals: Lern more about the Frontend with JS</p>
 
 ###
 
