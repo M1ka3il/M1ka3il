@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">My name is Michael and I'm a Software Developer Trainee from Germany</p>
+<p align="center">My name is Michael and I'm a Junior Full Stack .NET Developer from Germany</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">✨ Creating bugs since: 2020<br>📚 I'm currently learning: Frontend Dev with Bootstrap and JS<br>🎯 Goals: Become a FullstackDev</p>
+<p align="center">✨ Creating bugs since: 2020<br>📚 I'm currently learning: Frontend Dev with Bootstrap and JS<br>🎯 Goals: Lern more about Frontendcoding with JS</p>
 
 ###
 
