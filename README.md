@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">✨ Creating bugs since: 2020<br>📚 I'm currently learning: Frontend Dev with Angular and Blazor <br>🎯 Goals: Become a Fullstack .NET Fullstack Developer </p>
+<p align="center">✨ Creating bugs since: 2020<br>📚 I'm currently learning: Frontend Dev with Angular  <br>🎯 Goals: Become a Fullstack Developer </p>
 
 ###
 
