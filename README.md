@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">✨ Creating bugs since: 2020<br>📚 I'm currently learning: Web Frontend Dev with Angular  
+<p align="center">✨ Creating bugs since: 2020<br>📚 I'm currently learning: Angular  
 
 ###
 
